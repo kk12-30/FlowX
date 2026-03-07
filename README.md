@@ -1,7 +1,6 @@
 # 🚀 FlowX - AI 驱动的智能渗透测试平台
 
 <div align="center">
-https://mp.weixin.qq.com/s/_yY2z0ONxzY-mgOILZ_D6g
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
@@ -10,6 +9,7 @@ https://mp.weixin.qq.com/s/_yY2z0ONxzY-mgOILZ_D6g
 **基于大语言模型的自主渗透测试 Agent 平台**
 
 结合 HTTP 流量捕获、ReAct 推理循环的智能安全测试系统
+https://mp.weixin.qq.com/s/_yY2z0ONxzY-mgOILZ_D6g
 
 
 </div>
