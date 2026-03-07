@@ -1,10 +1,7 @@
 # 🚀 FlowX - AI 驱动的智能渗透测试平台
 
 <div align="center">
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 **基于大语言模型的自主渗透测试 Agent 平台**
 
