@@ -1,7 +1,7 @@
 # 🚀 FlowX - AI 驱动的智能渗透测试平台
 
 <div align="center">
-
+https://mp.weixin.qq.com/s/_yY2z0ONxzY-mgOILZ_D6g
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
